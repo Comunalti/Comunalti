@@ -4,4 +4,4 @@
 - I am planning to be a indie gamedev and a fullstack developer
 - I am studying Unity
 - I also like to play with visual programming, HLSL and GLSL
-- C#, Lua , C/C++ for Arduino, HLSL GLSL
+- C#, Lua , C/C++, HLSL GLSL
