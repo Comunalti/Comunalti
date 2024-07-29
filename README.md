@@ -1,7 +1,6 @@
-- My name is Felipe Rodrigues Peixoto da Silva
-- I am a computer engineering student (Mauá Institute of Technology)
-- I am 18 years old (2022)
-- I am planning to be a indie gamedev and a fullstack developer
-- I am studying Unity
-- C#, Lua , C/C++, HLSL GLSL
-- I also like to play with visual programming, HLSL and GLSL
+- My name is Felipe Rodrigues Peixoto da Silva.
+- I am a computer engineering student (Mauá Institute of Technology).
+- I am 21 years old.
+- I am planning to become a Unity Programmer and a Full stack and Full cycle developer and AI Engineer.
+- Python, Javascript/Typescript, Node, React, Bootstrap 5, C#, Java, Lua , C/C++.
+- I also like to play with programming for visuals HLSL and GLSL for shaders and P5.js.
